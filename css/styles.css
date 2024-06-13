@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(19, 24, 22);
+}
+/* Esto es mi header */
+#header {
+    background-color: #0F0F0F;
+    height: 50px;
+    padding: 0px;
+}
+/* Esto es mi section */
+.caja2 {
+    background-color: rgb(32, 32, 37);
+    height: 2500px;
+    padding: 0px;
+}
+
+.caja3 {
+    background-color: rgb(62, 62, 71);
+    height: 2500px;
+    padding: 0px;
+}
